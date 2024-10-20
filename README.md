@@ -4,6 +4,8 @@
 
 ## Difficulté : moyen
 
+![Illustration](./_images/guerrier.jpg "Illustration")
+
 ## Technologies cibles : 
 - Java 17+ ou Kotlin
 
